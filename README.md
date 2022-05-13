@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgzx" alt="tgzx" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em desenvolvimento de um programa CRM (JDBC e PostgreSQL) [CRM de código aberto com base em Java](https://programming-techniques.com/ask-2775-open-source-crm-software-written-in-java-closed/)
+- 🔭 Atualmente estou trabalhando em desenvolvimento de um programa CRM (JDBC e PostgreSQL) [CRM em Java com banco em PostgreSQL](https://github.com/tgzx/CRM)
 
 - 🌱 Estou aprendendo **PowerApps e PostgreSQL**
 
