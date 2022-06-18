@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento de um programa CRM (JDBC e PostgreSQL) [CRM em Java com banco em PostgreSQL](https://github.com/tgzx/CRM)
 
-- 🌱 Estou aprendendo **PowerApps e PostgreSQL**
+- 🌱 Estou aprendendo **Java e SQL**
 
 - 📫 Você me encontra em **tiago.z.x.g@gmail.com**
 
