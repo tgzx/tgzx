@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgzx&label=Profile%20views&color=0e75b6&style=flat" alt="tgzx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgzx" alt="tgzx" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgzx&theme=onedark" alt="tgzx" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando em desenvolvimento de um programa CRM (JDBC e PostgreSQL) [CRM em Java com banco em PostgreSQL](https://github.com/tgzx/CRM)
 
@@ -21,4 +21,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact" alt="tgzx" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=onedark" alt="tgzx" /></p>
