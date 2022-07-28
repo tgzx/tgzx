@@ -6,11 +6,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tgzx&show_icons=true&layout=compact&theme=radical&locale=pt-br&&hide=stars,issues,contribs&show_icons=true"/>
 </p>
 
-<p>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="150" width="400" />
-</p>
-
-<h1 align="left"> </h1>
+</a>
 
 - 🌱 Estou aprendendo **Java e SpringBoot**
 - 📫 Contato **tiago.z.x.g@gmail.com**
