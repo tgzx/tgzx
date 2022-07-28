@@ -3,11 +3,11 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tgzx&show_icons=true&layout=compact&theme=radical&locale=pt-br&&hide=stars,issues,contribs&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tgzx&show_icons=true&layout=compact&theme=radical&locale=pt-br&&hide=stars,issues,contribs&show_icons=true" width="450"/>
 </p>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="150" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="150" width="345" />
 </a>
 
 - 🌱 Estou aprendendo **Java e SpringBoot**
