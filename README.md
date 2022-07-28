@@ -7,7 +7,7 @@
 </p>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="135" width="345" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="137" width="345" />
 </a>
 
 - 🌱 Estou aprendendo **Java e SpringBoot**
