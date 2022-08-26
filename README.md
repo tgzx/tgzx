@@ -13,7 +13,7 @@
 - 🌱 Estou aprendendo **Java e SpringBoot**
 - 📫 Contato **tiago.z.x.g@gmail.com**
 - 📄 Conheça minhas experiências em [https://www.linkedin.com/in/tiago-moreira-569022164/](https://www.linkedin.com/in/tiago-moreira-569022164/)
-- 🔭 Todo um dia um desafio diferente! Clique e veja alguns dos meus projetos abaixo:
+- 🔭 Todo dia um desafio diferente! Clique e veja alguns dos meus projetos abaixo:
 
 | [<sub> Projeto CRM <br>Java / PostgreSQL / MySQL</sub>](https://github.com/tgzx/CRM) | [<sub>Calculadora POO, só porque sim!<br>Java</sub>](https://github.com/tgzx/Calculadora-POO) | [<sub>Gestão de Preços arredondados. Entenda!<br>Java</sub>](https://github.com/tgzx/GestorDePrecos-Softcom) | [<sub>Sistema bancário simples. Mais prática em POO.<br>Java</sub>](https://github.com/tgzx/Sistema-Bancario-JAVA)
 | :---: | :---: | :---: | :---:
