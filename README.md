@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Tiago Moreira</h1>
-<h3 align="center">Desenvolvedor Java BackEnd, em formação.</h3>
+<h3 align="center">Desenvolvedor BackEnd, em formação. (JAVA / APEX)</h3>
 
 
 <p>
