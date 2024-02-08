@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Tiago Moreira</h1>
-<h3 align="center">Desenvolvedor BackEnd, em formação. (JAVA / APEX)</h3>
+<h3 align="center">Desenvolvedor Salesforce</h3>
 
 
 <p>
@@ -10,6 +10,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="137" width="345" />
 </a>
 
+- ☁️ Sales Cloud.
+- 🫏 Conhecimentos básicos em Mulesoft.
+- 🧑‍💻 Domino tecnologias backend e tenho sólidos conhecimentos em APEX e LWC.
 - 🌱 Estou aprendendo **Java e SpringBoot**
 - 📫 Contato **tiago.z.x.g@gmail.com**
 - 📄 Conheça minhas experiências em [https://www.linkedin.com/in/tiago-moreira-569022164/](https://www.linkedin.com/in/tiago-moreira-569022164/)
