@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgzx&show_icons=true&locale=en&layout=compact&theme=radical" height="137" width="345" />
 </a>
 
-- ☁️ Sales Cloud.
+- ☁️ Sales Cloud | Consumer Goods Cloud | Service Cloud.
 - 🫏 Conhecimentos básicos em Mulesoft.
 - 🧑‍💻 Domino tecnologias backend e tenho sólidos conhecimentos em APEX e LWC.
 - 🌱 Estou aprendendo **Java e SpringBoot**
